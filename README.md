@@ -1,6 +1,6 @@
 # 🚌 Bus Reservation System
 
-A comprehensive Java-based bus reservation management system that provides seamless booking, ticket management, and administrative controls for bus travel agencies.
+A comprehensive Java-console-based bus reservation management system that provides seamless booking, ticket management, and administrative controls for bus travel agencies.
 <br>
 ## 🌟 Features
 
